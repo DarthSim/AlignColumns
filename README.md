@@ -11,7 +11,7 @@ Tested with Sublime Text 2 build 2180 and later.
 Installation
 ------------
 
-Drop the entire folder in Sublime's `Packages` folder. Add this to Sublime's key bindings file:
+Create `AlignColumns` folder in Sublime's `Packages` folder and copy all files there. Add this to Sublime's key bindings file:
 
   { "keys": ["ctrl+shift+c"], "command": "align_columns" }
 
